@@ -1,0 +1,29 @@
+body{
+    font-size: 16px;
+    background-color: #61122f;
+    color: #fff;
+}
+#header-nav{
+    background-color: #f6b319;
+
+}
+ #logo-img{
+     background: url("../images/logo.jpg") no-repeat;
+     height: 150px;
+     width: 150px;
+     border-radius: 100%;
+     background-size: cover;
+     margin: 15px 10px 10px 0px;
+ }
+ .navbar-brand p{
+     color: black;
+     text-transform: uppercase;
+     margin-left: 7px;
+ }
+ .navbar-brand h1{
+     text-transform: uppercase;
+     font-weight: bold;
+     color: #fff;
+     text-shadow: 1px 1px 1px #222;
+     line-height: .75;
+}
